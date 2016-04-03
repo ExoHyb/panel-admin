@@ -6,9 +6,11 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<?php include "navbar.php"; ?>
+	<?php include "header.php"; ?>
+	<!-- <?php include "navbar.php"; ?> -->
 	<?php include "presentation.php"; ?>
 	<div class="container">
 		<div class="row">

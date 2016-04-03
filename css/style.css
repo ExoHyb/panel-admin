@@ -86,3 +86,51 @@
 .modif-circle {
 	font-size: 0.7em;
 }
+
+.mod-header {
+	margin-top: 2em;
+}
+
+.menu-general {
+	font-family: "Passion One";
+	font-size: 2.5em;
+}
+
+.menu-general ul {
+	list-style: none;
+}
+
+.menu-general a {
+	color: #444;
+}
+
+.menu-general a:hover {
+	color: #C8373C;
+	text-decoration: none;
+}
+
+.menu-gauche {
+	margin-right: -22px;
+	margin-top: 20px;
+}
+
+.menu-droite {
+	margin-left: -40px;
+	margin-top: 20px;
+}
+
+.element-menu-1 {
+	margin-right: -12px;
+}
+
+.element-menu-3 {
+	margin-right: -12px;
+}
+
+.element-menu-4 {
+	margin-left: -12px;
+}
+
+.element-menu-6 {
+	margin-left: -12px;
+}
