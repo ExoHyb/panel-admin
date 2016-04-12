@@ -5,8 +5,8 @@
 			<h4>Activités</h4>
 		</div>
 		<div class="panel-body">
-			<?php $activite = $bdd->query('SELECT titre, contenu, dateact FROM activites ORDER BY dateact DESC LIMIT 5'); 
-			while ($show_activite = $activite->fetch()) 
+			<?php $activite = $bdd->query('SELECT titre, contenu, dateact FROM activites ORDER BY dateact DESC LIMIT 5');
+			while ($show_activite = $activite->fetch())
 			{
 			?>
 				<h4><?php echo $show_activite['titre']; ?></h4>

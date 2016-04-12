@@ -1,3 +1,9 @@
+body {
+	background-image: url("../img/background.png");
+	background-size: 500px;
+	background-repeat: repeat-x;
+}
+
 .navbar-acc ul {
 	list-style-type: none;
 }
@@ -133,4 +139,25 @@
 
 .element-menu-6 {
 	margin-left: -12px;
+}
+
+.panel {
+	border-color: #766B7F;
+}
+
+.panel-heading {
+	background-color: #766B7F;
+}
+
+.panel-heading h2, h3, h4 {
+	color: white;
+}
+
+
+.background-white {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 1em;
+	border-radius: 3px;
+	margin-bottom: 2em;
+	margin-top: 4.5em;
 }

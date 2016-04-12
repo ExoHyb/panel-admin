@@ -1,6 +1,8 @@
 <div class="container">
+	<div class="row">
+
 	<div class="col-md-12">
-		<div class="panel panel-primary">
+		<div class="panel">
 			<div class="panel-heading">
 				<h4>Présentation du PAEJ</h4>
 			</div>
@@ -10,4 +12,5 @@
 			</div>
 		</div>
 	</div>
+</div>
 </div>
